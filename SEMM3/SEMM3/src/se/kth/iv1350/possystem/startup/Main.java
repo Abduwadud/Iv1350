@@ -9,7 +9,7 @@ import se.kth.iv1350.possystem.view.View;
 /**
  * Starts the application. Creates all parts of the system and runs a fake sale.
  */
-public clas Main {
+public class Main {
 
     /**
      * Entry point of the program. No command-line arguments are used.
